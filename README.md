@@ -1,10 +1,9 @@
-# The Fair Spin developer site
+# Developer site
 
-This repository is published at the root of https://jcazallasc.github.io so AdMob can find `app-ads.txt`.
+This site is shared by every app. AdMob reads `app-ads.txt` from the domain root:
 
-- Ads authorization: https://jcazallasc.github.io/app-ads.txt
-- Privacy policy, both languages: https://jcazallasc.github.io/the-fair-spin-privacy/
-- English: https://jcazallasc.github.io/the-fair-spin-privacy/en/
-- Español: https://jcazallasc.github.io/the-fair-spin-privacy/es/
+https://jcazallasc.github.io/app-ads.txt
 
-The pages are static HTML. They do not set cookies and they do not load third-party scripts.
+Each app keeps its own public privacy repository. The Fair Spin policy is published from [the-fair-spin-privacy](https://github.com/jcazallasc/the-fair-spin-privacy):
+
+https://jcazallasc.github.io/the-fair-spin-privacy/
